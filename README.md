@@ -8,4 +8,4 @@ npm install
 gulp
 ```
 
-visit http://localhost:<gulp-server-port>/
+visit http://localhost:'gulp-server-port'/
