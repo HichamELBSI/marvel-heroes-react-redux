@@ -6,5 +6,6 @@ Install
 cd path/to/repo
 npm install
 gulp
-http://localhost:<gulp-server-port>/
 ```
+
+visit http://localhost:<gulp-server-port>/
